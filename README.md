@@ -10,3 +10,4 @@ V Parameter settings sva izbrala ločljivost pretvorbe na 8-bitno, torej je obmo
 # 12-bitna ločljivost, od 0 do 4095.
 # 10-bitna ločljivost, od 0 do 1023.
 # 6-bitna ločljivost, od 0 do 63.
+Komentar delovanja: 
